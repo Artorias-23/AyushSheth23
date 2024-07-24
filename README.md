@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AyushSheth23
+- 👀 I’m interested in Machine Learning and AI
+- 🌱 I’m currently a third year student at Pune Institute of Computer Technology
+- 💞️ I’m looking to collaborate on ML projects
+- 📫 How to reach me www.linkedin.com/in/ayush-sheth
